@@ -1,0 +1,11 @@
+tests\AddItemsToWishListTest.class
+tests\MakeOrderWithIncreasedQuantityTest.class
+tests\SignInWithValidCredentialsTest.class
+stepDefinition\Steps.class
+testRunner\TestRun.class
+tests\AddSpecialsToCartTest.class
+tests\CreateNewAccTest.class
+tests\MakeAnOrderTest.class
+tests\SearchProductAndAddToCartTest.class
+tests\MakeOrderAsGuestTest.class
+tests\BaseTest.class
